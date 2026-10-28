@@ -22,3 +22,18 @@ This research focuses on addressing the machine learning challenges and paramete
 * 📂 **[03_Python_Scripts](./03_Python_Scripts)** *(Corresponds to Appendix C)*
   * Contains all Python automation and machine learning source code. This includes the finite element simulation automation scripts for Abaqus (Cruciform, Shear, and Asymmetric tests), as well as the complete PyTorch/Optuna and XGBoost pipelines for parameter identification, physical loss functions, and macroscopic validation. 
   * 📝 *Note: Please refer to the dedicated `README.md` inside this folder for a detailed, script-by-script index of the workflows.*
+
+## Software & Dependencies
+To ensure reproducibility, the scripts and simulations in this repository were developed and tested using the following environment:
+* **Finite Element Solver:** SIMULIA Abaqus (version 2019)
+* **Programming Language:** Python 3.13.5
+* **Key ML/Data Libraries:** PyTorch, XGBoost, Optuna, scikit-learn, pandas, numpy
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+
+## Citation
+If you utilize the code, data, or mathematical deductions provided in this repository for your own research, please consider citing the associated Master's Thesis or the submitted WCCM/ECCOMAS 2026 manuscript. 
+
+## Contact
+For any questions regarding the methodology, code, or data, please feel free to reach out via [(https://www.linkedin.com/in/alexandre-silva-1587552a1/)].
