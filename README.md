@@ -33,7 +33,7 @@ To ensure reproducibility, the scripts and simulations in this repository were d
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
 
 ## Citation
-If you utilize the code, data, or mathematical deductions provided in this repository for your own research, please consider citing the associated Master's Thesis or the submitted WCCM/ECCOMAS 2026 manuscript. 
+If you utilize the code, data, or mathematical deductions provided in this repository for your own research, please consider citing the associated Master's Thesis. 
 
 ## Contact
 For any questions regarding the methodology, code, or data, please feel free to reach out via [(https://www.linkedin.com/in/alexandre-silva-1587552a1/)].
