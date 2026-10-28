@@ -1,3 +1,15 @@
+"""
+Automation of Cruciform Test Simulations
+
+The Python script used in this work adapts the framework developed by Marques [https://ria.ua.pt/handle/10773/44118]. 
+This script automates the simulation of the CPB’06 yield criterion and Swift hardening law 
+using Abaqus on the cruciform test. It defines a 3D model, sets up material properties, 
+and creates a mesh for a cruciform geometry. The script calls a pre-calculated Design 
+of Experiments (DOE) with varying material parameters from an external CSV file, executes 
+the simulation, and extracts results such as displacements and strains from the Output 
+Database (ODB). Finally, it saves the processed data into CSV files for further analysis.
+"""
+
 # -*- coding: mbcs -*-
 # Do not delete the following import lines
 # abaqus cae noGUI=Cruciform.py
